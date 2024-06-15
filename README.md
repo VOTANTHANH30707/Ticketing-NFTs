@@ -45,8 +45,8 @@ Chúng tôi chào đón mọi đóng góp! Hãy làm theo các bước dưới �
 Dự án này được cấp phép dưới [MIT License](LICENSE).
 
 ## ✨ **Liên hệ**
-- 📧 Email: support@nfetickets.com
-- 🌐 Website: [nfetickets.com](https://www.nfetickets.com)
-- 🐦 Twitter: [@NFETickets](https://twitter.com/NFETickets)
+- 📧 Email: support@ntftickets.com
+- 🌐 Website: [ntftickets.com](https://www.ntftickets.com)
+- 🐦 Twitter: [@ntfTickets](https://twitter.com/ntfTickets)
 
 ![Footer](https://img.icons8.com/fluency/48/000000/ticket.png)
